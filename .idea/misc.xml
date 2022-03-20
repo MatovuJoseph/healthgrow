@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MATOVUJOSEPH/AndroidStudioProjects/HealthGrow/app/src/main/res/drawable/splash_background.xml" value="0.1315" />
+        <entry key="..\:/Users/MATOVUJOSEPH/AndroidStudioProjects/HealthGrow/app/src/main/res/layout/activity_country_picker.xml" value="0.209375" />
+        <entry key="..\:/Users/MATOVUJOSEPH/AndroidStudioProjects/HealthGrow/app/src/main/res/layout/activity_customer_registry.xml" value="0.209375" />
+        <entry key="..\:/Users/MATOVUJOSEPH/AndroidStudioProjects/HealthGrow/app/src/main/res/layout/activity_language_picker.xml" value="0.209375" />
+        <entry key="..\:/Users/MATOVUJOSEPH/AndroidStudioProjects/HealthGrow/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/Users/MATOVUJOSEPH/AndroidStudioProjects/HealthGrow/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/MATOVUJOSEPH/AndroidStudioProjects/HealthGrow/app/src/main/res/layout/activity_new_customer.xml" value="0.209375" />
+        <entry key="..\:/Users/MATOVUJOSEPH/AndroidStudioProjects/HealthGrow/app/src/main/res/layout/activity_product_sales.xml" value="0.209375" />
+        <entry key="..\:/Users/MATOVUJOSEPH/AndroidStudioProjects/HealthGrow/app/src/main/res/layout/activity_rewards.xml" value="0.209375" />
+        <entry key="..\:/Users/MATOVUJOSEPH/AndroidStudioProjects/HealthGrow/app/src/main/res/layout/activity_sell_product.xml" value="0.209375" />
+        <entry key="..\:/Users/MATOVUJOSEPH/AndroidStudioProjects/HealthGrow/app/src/main/res/layout/activity_splash.xml" value="0.209375" />
+        <entry key="..\:/Users/MATOVUJOSEPH/AndroidStudioProjects/HealthGrow/app/src/main/res/layout/single_country_layout.xml" value="0.209375" />
+        <entry key="..\:/Users/MATOVUJOSEPH/AndroidStudioProjects/HealthGrow/app/src/main/res/layout/single_customer_layout.xml" value="0.209375" />
+        <entry key="..\:/Users/MATOVUJOSEPH/AndroidStudioProjects/HealthGrow/app/src/main/res/layout/single_language_layout.xml" value="0.209375" />
+        <entry key="..\:/Users/MATOVUJOSEPH/AndroidStudioProjects/HealthGrow/app/src/main/res/layout/single_reward_layout.xml" value="0.209375" />
+        <entry key="..\:/Users/MATOVUJOSEPH/AndroidStudioProjects/HealthGrow/app/src/main/res/layout/single_tool_layout.xml" value="0.209375" />
+        <entry key="..\:/Users/MATOVUJOSEPH/AndroidStudioProjects/HealthGrow/app/src/main/res/menu/main_menu.xml" value="0.5037593984962406" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
