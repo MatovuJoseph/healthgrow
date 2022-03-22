@@ -15,6 +15,9 @@
             android:name=".ui.products.ProductSalesActivity"
             android:exported="false" />
         <activity
+            android:name=".ui.products.SellProductActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.customer.NewCustomerActivity"
             android:exported="false" />
         <activity
